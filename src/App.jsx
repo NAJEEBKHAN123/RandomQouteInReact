@@ -3,7 +3,7 @@ import { useState } from 'react';
 import './App.css'
 
 function App() {
-  const [value, setvalue] = useState("");
+  const [value, setvalue] = useState("May Allah project us from jealusly");
 
  const quotes = [
     "The only way to do great work is to love what you do. - Steve Jobs",
